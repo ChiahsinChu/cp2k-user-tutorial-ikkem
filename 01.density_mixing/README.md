@@ -1,7 +1,11 @@
 > This example is adapted from `cp2k/benchmarks/QS/H2O-64.inp`.
 
-TLDR: The setup in [`MIXING`](https://manual.cp2k.org/trunk/CP2K_INPUT/FORCE_EVAL/DFT/SCF/MIXING.html) would influence the **efficiency of the SCF convergence**. Please check the setup in similar systems or test it carefully by yourself, especially if you suffer from a slow SCF convergence.
+# How density mixing influences the SCF convergence?
 
+## TLDR
+The setup in [`MIXING`](https://manual.cp2k.org/trunk/CP2K_INPUT/FORCE_EVAL/DFT/SCF/MIXING.html) would influence the **efficiency of the SCF convergence**. Please check the setup in similar systems or test it carefully by yourself, especially if you suffer from a slow SCF convergence.
+
+## Main text
 Compared with the previous example, we change the setup of density mixing here:
 
 ```text

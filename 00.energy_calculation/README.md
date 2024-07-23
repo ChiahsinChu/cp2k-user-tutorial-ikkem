@@ -1,3 +1,7 @@
+> This example is adapted from `cp2k/benchmarks/QS/H2O-64.inp`.
+
+# First trial: energy calculation as simple as possible
+
 Please follow the [official tutorial](https://www.cp2k.org/howto:static_calculation) to understand the sections/keywords used in `input.inp`, including:
 
 - `GLOBAL`: global setup (e.g., name, run type, etc.)
