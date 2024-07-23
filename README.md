@@ -9,7 +9,10 @@ This tutorial is prepared for the people:
 If you are not familiar with the QC/DFT basic concepts, you can refer to the following resources:
 
 - (Chinese) [Introduction to QC and DFT](https://wiki.cheng-group.net/wiki/new_comers/qc_dft/) & [Introduction of basis set and pseudopotentials](https://wiki.cheng-group.net/wiki/new_comers/basis_pps/)
-- (English)
+- (English) [Introduction to Density Functional Theory [Part One]](https://www.youtube.com/watch?v=Ez_Fm4iTUeo)
+
+If you don't have experience in command-line operations, you can refer to the following resources:
+- The first five sections in [*The Missing Semester of Your CS Education*](https://missing.csail.mit.edu)
 
 If you have experience in other DFT codes (e.g., VASP) and just want to get your hand in CP2K usage, I would recommend you to follow below tutorials rather than this one:
 
