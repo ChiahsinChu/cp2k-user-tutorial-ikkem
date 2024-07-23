@@ -41,6 +41,9 @@
       SCF_GUESS ATOMIC
       EPS_SCF 1.0E-7
       MAX_SCF 300
+      &MIXING
+        METHOD BROYDEN_MIXING
+      &END MIXING
     &END SCF
   &END DFT
   &PRINT

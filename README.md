@@ -34,5 +34,5 @@ Performing a DFT calculation is non-trivial. The users should take care of not o
 
 > Please check the `README.md` in each folder for more details.
 
-1. [First trial: calculate energy and forces](./00.energy_calculation/)
-2. [From insulator to conductor: smearing](./01.smearing/)
+1. [Simplest setup for energy calculation](./00.energy_calculation/)
+2. [How density mixing works](./01.density_mixing/)
